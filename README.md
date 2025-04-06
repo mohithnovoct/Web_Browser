@@ -6,7 +6,6 @@ A simple, lightweight web browser built using Python and PyQt5. This project dem
 
 ## 📸 Screenshots
 
-> *(Add your own screenshots here after running the app)*
 
 ![Browser Screenshot](screenshot.png)
 
